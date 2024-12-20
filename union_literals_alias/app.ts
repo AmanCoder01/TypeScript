@@ -74,3 +74,7 @@ const user: User = {
     name: "Aman",
     age: 20,
 }
+
+function greet(user: User) {
+    console.log(`Hello, ${user.name}! You are ${user.age} years old.`);
+}
