@@ -7,9 +7,6 @@ This repository contains a collection of TypeScript examples and tutorials, cove
 - [Overview](#overview)
 - [Folder Structure](#folder-structure)
 - [Getting Started](#getting-started)
-- [How to Run Examples](#how-to-run-examples)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
